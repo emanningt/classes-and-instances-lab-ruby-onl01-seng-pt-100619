@@ -1,4 +1,4 @@
-calss Person
+class Person
 
 end 
 
